@@ -1,0 +1,50 @@
+[
+    {
+        "title": "German Only",
+        "content": "This server is in its foundation german-speaking only. English speakers are welcome as long as they abide by general regulations."
+    },
+    {
+        "title": "Regelwerk",
+        "content": "Dieses Regelwerk definiert die Grundlagen zum Agieren auf dem Fronturlauber-Squad-Server. Es dient dem harmonisierten Zusammenspiel auf dem Server. Das Regelwerk l\u00e4sst Freiheiten offen, um ein spa\u00dfiges und offenes Spielerlebnis auf dem Server zu erm\u00f6glichen und ist mit Sinn zu vervollst\u00e4ndigen."
+    },
+    {
+        "title": "Miteinander",
+        "content": "Ein respektvolles Miteinander wird vorausgesetzt. Dies schlie\u00dft jegliche Formen von Hassrede, Provokation, Beleidigung, Bel\u00e4stigung, Doxing, Trolling u. \u00e4. mit ein."
+    },
+    {
+        "title": "Objective",
+        "content": "Das Ziel des Spiels sollte verfolgt werden. Dies definiert ebenfalls das Agieren gegen das eigene Team (z.B. Teamkills). Hierbei kann nat\u00fcrlich breit gedacht werden (z.B. Sabotage oder Aufkl\u00e4rungs-Squad) um eine Vielzahl an Spielstilen zu erm\u00f6glichen. Ebenfalls schlie\u00dft dies das korrekte Nutzen der eigenen Rolle und die Zusammenarbeit mit Team und Squad ein."
+    },
+    {
+        "title": "Fairplay",
+        "content": "Auf ein ausgeglichenes Spielerlebnis ist zu achten. Dies bezieht sich besonders auf \\\"Clan-Stacking\\\". Ebenfalls ist das anhaltende Blockieren oder Patroullieren der Zugangswege zur gegnerischen Mainbase untersagt. Minen d\u00fcrfen maximal mit 300m Abstand zur feindlichen Mainbase gelegt werden. Zus\u00e4tzlich ist bei AAS das Rushen der ersten Flagge untersagt. Das Nutzen von Spielfehlern (ausgenommen: Vorrollen mit Fahrzeugen w\u00e4hrend der Staging Phase) ist, sofern dies einen Vorteil bringen kann, sowie die Nutzung externer Programme, welche in das Spiel eingreifen, untersagt. Ebenso ist die Weitergabe spielrelevanter Informationen an die Gegner Seite sowie die Nutzung dieser verboten."
+    },
+    {
+        "title": "Kommunikation",
+        "content": "Die Kommunikation mit dem eigenen Team und Squad ist verpflichtend. F\u00fcr Squadleader wird ebenfalls ein Mikrofon vorausgesetzt, um die Kommunikation zu vereinfachen. Das Nutzen des Sprachchats zur Wiedergabe von Inhalten ist gestattet, solange diese die in \u00a702 gesetzten Richtlinien einhalten und keine Nutzer durch diese gest\u00f6rt werden. Dies schlie\u00dft ebenfalls jegliche st\u00f6renden Ger\u00e4usche ein, wie lautes Atmen oder das \\\"Schreien\\\" in das Mikrofon."
+    },
+    {
+        "title": "Squads",
+        "content": "Bei dem Erstellen eines Squads ist im Namen des Squads die Verwendung festzulegen (z.B. INF, RECON, MBT, \u2026). Durch das Erstellen eines Squads verpflichtet man sich, dieses aktiv zu leiten. Die Weitergabe des SLs an Personen darf nur mit deren Einverst\u00e4ndnis erfolgen. Sollte dies nicht m\u00f6glich sein, so ist der Squad aufzul\u00f6sen. Um den Pflichten des Squadleads nachgehen zu k\u00f6nnen, ist dies Nutzung des SL-Kits verpflichtend. Hierbei sind tempor\u00e4re Situative Wechsel m\u00f6glich (z.B. zum Bek\u00e4mpfen eines Fahrzeugs auf AT, zum eigenen Heilen auf Medic) sollte dies nicht durch jemand anderen durchgef\u00fchrt werden k\u00f6nnen. Geschlossene 1-Mann Squads sind ebenso unerw\u00fcnscht. Ausgenommen hiervon sind dedizierte Logistik-Squads. Das Werfen von Personen aus dem eigenen Squad ist nur mit objektiv nachvollziehbaren Gr\u00fcnden durchzuf\u00fchren um Provokationen zu vermeiden."
+    },
+    {
+        "title": "Fahrzeuge",
+        "content": "Fahrzeuge, welche ein Crewman-Kit auf mehreren Sitzen ben\u00f6tigen, m\u00fcssen mit mindestens 2 Crewmans in den Kampf gef\u00fchrt werden. Alleiniges Besetzen, um z.B. den Rest des Squads abzuholen, ohne sich aktiv in den Kampf zu begeben, ist somit m\u00f6glich. Ebenfalls ist hierbei auf eine sinnige Nutzung der Fahrzeuge zu achten und diese nicht zu verschwenden. Ebenso ist es untersagt, Fahrzeuge unerreichbar stehen zu lassen (au\u00dferhalb der N\u00e4he jeglicher eigener Spawns). Das Anrecht auf ein Fahrzeug besitzt zun\u00e4chst das Squad, welches sich zuerst nach diesem benannt hat. Hierbei ist eine exakte Spezifizierung notwendig, welche auf ein Fahrzeug hinweist (z.B.: MBT, BTR 82, HUMVEE RWS, M1126, HELI). Ausgenommen hiervon sind Open Top Scout Cars (MRAP, Simir, \u2026) mit L- / HMG-Bewaffnung sowie (Logistik-)Transporter. Dies entf\u00e4llt, sollte das dedizierte Squad das Fahrzeug bei Verf\u00fcgbarkeit f\u00fcr einen erweiterten Zeitraum nicht nutzen."
+    },
+    {
+        "title": "Spielernamen",
+        "content": "Die Nutzung des \\\"FU\\\"-Tags ist Mitgliedern der Serveradministration vorbehalten. Ebenso ist das gezielte Verwenden von Tags, welche eine Gruppe repr\u00e4sentieren, welcher man selbst nicht angeh\u00f6rt, unerw\u00fcnscht. Namen m\u00fcssen ebenfalls einen aussprechbaren Teil des lateinischen Alphabets beinhalten. Die \u00fcberm\u00e4\u00dfige Verwendung von Sonderzeichen zum Leid der Lesbarkeit und \u00dcbersichtlichkeit wird nicht geduldet."
+    },
+    {
+        "title": "Mapspezifische Regelungen",
+        "content": "Narva: Das Legen von Minen auf den 3 ersten Br\u00fccken von Ost nach West oder das Blockieren dieser ist verboten und wird als Mainbasecamping deklariert."
+    },
+    {
+        "title": "Administration",
+        "content": "Die Administration des Servers beh\u00e4lt sich vor st\u00f6rende Spieler, sofern Beweise vorliegen, des Servers zu verweisen und im Sinne des Servers und der Nutzerschaft in das Spielgeschehen einzugreifen. Den Anweisungen der Administration ist auf dem Server Folge zu leisten und sofern m\u00f6glich, bei der Kl\u00e4rung von Sachverhalten mitzuwirken. Entscheidungen k\u00f6nnen schriftlich oder m\u00fcndlich bei der Teamverwaltung angefochten werden, jedoch nicht im aktiven Spielgeschehen auf dem Server."
+    },
+    {
+        "title": "Verbreitung von Inhalten",
+        "content": "Das \u00f6ffentliche Streaming von Inhalten ist ohne Delay gestattet, sofern ein Mapoverlay genutzt wird. Hierbei ist der Kontakt zur Administration bei l\u00e4ngerwierigen Streams im Vorhinein zu suchen, um f\u00fcr alle Beteiligten ein reibungsloses Spielerlebnis zu erm\u00f6glichen. Das private Streaming sowie das Verbreiten von Bild- und Tonaufnahmen ist ohne weitere Bedingungen gestattet."
+    }
+]
